@@ -20,5 +20,5 @@ Also, add this to the body of your webpage(s). This is where the feed will be di
 
 **Step 5:** Profit!
 
-If you have any questions, tweet me [@AvinchMC](twitter.com/AvinchMC). 
+If you have any questions, tweet me [@thesamja](twitter.com/thesamja). 
 
