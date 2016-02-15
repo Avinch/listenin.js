@@ -1,6 +1,6 @@
 //
-// listenin.js
-// Made by Sam Scott (@AvinchMC / avinch.me)
+// ListenIn.js
+// Made by Sam Scott (@thesamjas / samjas.co.uk)
 //
 
 // Requirements:
