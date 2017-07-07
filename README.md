@@ -1,4 +1,6 @@
 # listenin.js
+***DEAD PROJECT*** - Feel free to fork or whatever
+
 ## Setup
 **Step 1:** Create a [last.fm](http://www.last.fm) account and set up scrobbling
 
